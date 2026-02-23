@@ -1,12 +1,1 @@
 ﻿# PlayAlongPride
-# also have music in background 
-# 3 different difficulties
-
-
-<img width="1095" height="779" alt="Screenshot 2025-09-01 110137" src="https://github.com/user-attachments/assets/ab87f566-b3f0-4a88-9842-b9b9a971e2ad" />
-
-
-<img width="1091" height="779" alt="Screenshot 2025-09-01 110159" src="https://github.com/user-attachments/assets/ab0fa416-08d0-4ac6-97b1-9682f9541d85" />
-
-
-<img width="1097" height="783" alt="Screenshot 2025-09-01 110252" src="https://github.com/user-attachments/assets/fd6d117a-af19-4fa8-ad52-8a1272ddfcc6" />
